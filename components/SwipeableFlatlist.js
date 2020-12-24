@@ -5,6 +5,7 @@ import {
     StyleSheet,
     Text,
     TouchableHighlight,
+    Image,
     View,
 } from 'react-native';
 import { ListItem, Icon } from 'react-native-elements';
